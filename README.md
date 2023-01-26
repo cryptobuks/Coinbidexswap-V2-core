@@ -5,10 +5,10 @@ This repo contains all the contracts used in CoinbidexSwap.
 The following assumes the use of ```node@>=10```.
 
 # Install Dependencies
-'''yarn'''
+```yarn```
 
 # Compile Contracts
- '''yarn compile'''
+ ```yarn compile```
  
  # Run Tests
-'''yarn test'''
+```yarn test```
